@@ -1,0 +1,10 @@
+echo "🔶 running the prettier"
+pnpm prettier:fix
+echo "✅ prettier"
+
+echo "🔶 running the eslint"
+pnpm lint:fix
+echo "✅ eslint"
+
+git add .
+echo "✅ all good"
