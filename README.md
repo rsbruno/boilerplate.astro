@@ -10,10 +10,22 @@ Astro · TypeScript · Tailwind CSS v4
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![pnpm](https://img.shields.io/badge/pnpm-managed-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io)
+[![License: MIT](https://img.shields.io/badge/license-MIT-black?style=flat-square)](./LICENSE)
 
 </div>
 
 ---
+
+## Usando este boilerplate
+
+Clique em **[Use this template](https://github.com/rsbruno/boilerplate.astro/generate)** no topo do repositório para criar um novo projeto a partir deste boilerplate, ou clone direto:
+
+```bash
+git clone https://github.com/rsbruno/boilerplate.astro.git meu-projeto
+cd meu-projeto
+rm -rf .git && git init
+pnpm install
+```
 
 ## Stack
 
